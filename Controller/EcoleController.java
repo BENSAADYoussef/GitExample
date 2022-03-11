@@ -1,6 +1,6 @@
 
 public class EcoleController {
-private int x ; 
+private int rr ; 
 	
 	//ajout Etudiant
 	// delete Etudiant
